@@ -1,0 +1,75 @@
+.cabecalho{
+    background-color: #ba0000;
+    --item-mr: 15px;
+    display: flex;
+    align-items: center;
+    flex: 1 1 auto;
+    height: inherit;
+    color: aliceblue;
+}
+.radar{
+    text-align: center;
+    margin-left: 50%;
+    margin-left: 30pt;
+}
+.numero{
+    text-align: right;
+    margin-left: 20%;
+    margin-left: 30pt;
+}
+.titulo{
+    text-align: center;
+    font-size: 40pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 30pt;
+}
+.reporter{
+    text-align: left;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30pt;
+}
+.data{
+    text-align: left;
+    font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30pt;
+}
+img{
+    height: max-content;
+    width: max-content;
+    margin-left: 30pt;
+}
+p{
+    align-items: left;
+    te5xt-align: left;
+    font-size: pt16;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30pt;
+    line-height: 15pt;
+}
+h4{
+    text-align: left;
+    font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30pt;
+    margin-top: 5pt;
+    margin-bottom: 20pt;
+}
+.rodape{
+    background-color: #ba0000;
+    --item-mr: 15px;
+    display: flex;
+    align-items: center;
+    flex: 1 1 auto;
+    height: inherit;
+    color: aliceblue;
+}
+.radar64{
+    text-align: center;
+    align-items: center;
+    margin-left: 50%;
+    margin-left: 30pt;
+}
+
